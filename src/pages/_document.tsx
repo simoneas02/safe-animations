@@ -18,7 +18,7 @@ const structuredData = {
   '@type': 'WebSite',
   name: 'Safe Animation',
   alternateName: 'Safe',
-  // url: 'https://safe.global/',
+  url: 'https://safe-animations.vercel.app/',
 }
 
 export default class MyDocument extends Document {
